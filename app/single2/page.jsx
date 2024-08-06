@@ -16,7 +16,6 @@ const page = () => {
                     <option value="en">EN</option>
                     <option value="ru">RU</option>
                     <option value="uz">UZ</option>
-                    <option value="tr">TR</option>
                 </select>
                 </li>
                 <li>PORTFOLIO</li>
@@ -31,7 +30,7 @@ const page = () => {
         </nav>
         <main className="container w-full flex flex-col items-center">
             <div className="w-full justify-center flex items-center">
-                <Image className="mt-16 object-cover w-full h-[800px]" src='/singlepage1.png' alt="NO" width={1000} height={800} />
+                <Image className="mt-16 object-cover w-full h-[800px]" src='/card2.png' alt="NO" width={1000} height={800} />
             </div>
             <div className="w-full post1">
                 <h1 className="mt-16 text-2xl text-[#3A0CA3] font-semibold">BLOG DETAILS H1</h1>
