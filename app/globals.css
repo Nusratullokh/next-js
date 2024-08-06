@@ -18,13 +18,13 @@ li{
 }
 
 li:hover{
-    color: #D05270;
-    border-bottom: 2px solid #D05270 ;
+    color: #d05252;
+    border-bottom: 2px solid #d05252 ;
 }
 
 li:focus{
-    color: #D05270;
-    border-bottom: 2px solid #D05270;
+    color: #d05252;
+    border-bottom: 2px solid #d05252;
 }
 
 

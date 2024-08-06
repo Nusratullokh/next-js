@@ -33,7 +33,7 @@ export default function Home() {
       <main className="w-full  flex items-center h-[700px]">
         <div className="container w-full flex items-center gap-5 m-[50px]">
           <div className="w-[50%]  flex flex-col justify-center">
-            <h1 className="text-[52px] text-[#D05270] font-bold">Blog Posts</h1>
+            <h1 className="text-[52px] text-[#d05252] font-bold">Blog Posts</h1>
             <p className="text-[52px] text-[#424242]">I think so, this is it. </p>
             <br />
             <p className="text-[18px] text-[#4242429d]">Design begins after I begin to think about how to present an experience most successfully, whether a button I put in can solve a problem. The only point in design is not ui design, if the user does not have a good experience at the end of the product, the design will be considered unsuccessful in my opinion.</p>
